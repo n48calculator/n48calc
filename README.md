@@ -34,7 +34,7 @@ The demo videos can be found "**pinned**" to the TOP of following Calculator Dev
 > <a href='https://rumble.com/user/NEGATIVE48ISME' target='_blank'>NEGATIVE48ISME =141</a>
 
 ### TikTok
-> <a href='https://www.tiktok.com/@michaelprotzman' target="_blank'>MICHAEL PROTZMAN =174</a>
+> <a href='https://www.tiktok.com/@michaelprotzman' target='_blank'>MICHAEL PROTZMAN =174</a>
 
 ### Truth Social
 > <a href='https://truthsocial.com/@Negative48Crew' target='_blank'>NEGATIVE 48 CREW =144</a>
