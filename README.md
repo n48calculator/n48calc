@@ -7,8 +7,6 @@
 > Apple requires a Privacy policy for all APPS that are accepted into the App Store. The policy for the -48 Calculator, can be reviewed here: <a href='https://n48calculator.github.io/policy/' target='_blank'>-48 Calculator Policy Link</a>
 >
 > When the APP is started for the first time, it starts in "training mode" to assist you in learning the various features of the Calculator. Suggestions are made that are focused around you and your interests so that you can eventually see your own personal corrolations in Gematria. However, you can choose to type in anything you want instead during the training and ignore all suggestions offered by the APP during "training".
->
-> You also have the option to bypass "training" completely using an ESCAPE code of "**BQQM!**" (that's 5 characters without the quotes), typed into the Calculator phrase entry area.
 
 ---
 
