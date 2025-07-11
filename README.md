@@ -29,6 +29,7 @@ The demo videos can be found "**pinned**" to the TOP of following Calculator Dev
 
 ### Telegram
 > <a href='https://t.me/SmileLoveGematria/' target='_blank'>SmileLoveGematria =186</a>
+> 
 > <a href='https://t.me/TruthNewsNet/' target='_blank'>TRUTH NEWS NETWORK =254</a>
 
 ### Rumble
