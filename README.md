@@ -28,7 +28,7 @@ The demo videos can be found "**pinned**" to the TOP of following Calculator Dev
 > <a href='https://x.com/captdanosara' target='_blank'>captdanosara =113</a>
 
 ### Telegram
-> <a href='https://t.me/SmileLoveGematria/' target='_blank'>SmileLoveGematria =186</a><br>
+> <a href='https://t.me/SmileLoveGematria/' target='_blank'>SmileLoveGematria =186</a>
 > <a href='https://t.me/TruthNewsNet/' target='_blank'>TRUTH NEWS NETWORK =254</a>
 
 ### Rumble
