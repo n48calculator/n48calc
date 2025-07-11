@@ -10,8 +10,6 @@
 >
 > You also have the option to bypass "training" completely using an ESCAPE code of "**BQQM!**" (that's 5 characters without the quotes), typed into the Calculator phrase entry area.
 
-[policy]: [https://n48calculator.github.io/policy/]
-
 ## Demonstration Videos
 
 The following links are to a handful of social media pages that contain some short demonstration videos of the Calculator in operation for users that don't know where to begin. You should be able to find the demo videos "pinned" to the Top of these page links.
