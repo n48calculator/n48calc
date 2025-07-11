@@ -1,7 +1,7 @@
 # n48calc
 -48 Calculator Help
 
-> The -48 Calculator APP can store your Gematria Phrases if you choose to save those phrases. You also have the option of not saving anything at all by never clicking on the SAVE Folder. If you do save your phrases, your phrases are stored on your device, and optionally in the Apple iCloud if you enable the iCloud feature for Apple APPS. Only you can see your phrases, they are not accessible by anyone else.
+> The -48 Calculator APP can store your Gematria Phrases if you choose to save those phrases. You also have the option of not saving anything at all by never clicking on the SAVE Folder. If you do choose to save phrases, the phrases are stored on your device, and optionally in the Apple iCloud if you've enabled the iCloud SAVE/BACKUP feature for Apple APPS. Only you can see your phrases, they are not accessible by anyone else.
 >
 > Apple requires a Privacy policy for all APPS that are accepted into the App Store. To view the policy for the -48 Calculator, the policy can be reviewed here https://n48calculator.github.io/policy/.
 >
