@@ -17,9 +17,9 @@ The following links are to a handful of social media pages that contain some sho
 In the near future, there will be some LIVE sessions for Q&A and for additional Feature demonstrations.
 
 ### X (formally Twitter)
-https://x.com/captdanosara
+> <a href='https://x.com/captdanosara' target='_blank'>captdanosara</a>
 
 ### Telegram
-https://t.me/SmileLoveGematria/
+> <a href='https://t.me/SmileLoveGematria/' target='_blank'>SmileLoveGematria</a>
 
-(please hold... in progress!)
+(please hold... work still underway and in progress!)
