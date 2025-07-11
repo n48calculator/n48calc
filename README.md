@@ -12,6 +12,12 @@
 
 ---
 
+An extended PUBLIC BETA link is available to pre-install the -48 Calculator so that you can get aquainted with it's operation before the App Store release occurs.
+
+<a href='https://testflight.apple.com/join/DF8XcDdJ' target='_blank'>-48 Calculator - Public BETA Link</a>
+
+---
+
 ## Demonstration Videos
 
 The following links are to a handful of social media pages that contain some short demonstration videos of the Calculator in operation for users that don't know where to begin. 
@@ -25,5 +31,3 @@ The demo videos can be found "**pinned**" to the TOP of these page links.
 
 ### Telegram
 > <a href='https://t.me/SmileLoveGematria/' target='_blank'>SmileLoveGematria</a>
-
-(please hold... work still underway and in progress!)
