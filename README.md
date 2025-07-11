@@ -24,7 +24,7 @@ The following links are to a handful of social media pages that contain some sho
 
 In the near future, there will be some LIVE sessions for Q&A and for additional Feature demonstrations.
 
-The demo videos can be found "**pinned**" to the TOP of these page links.
+The demo videos can be found "**pinned**" to the TOP of following Calculator Development team personal page links.
 
 ### X (formally Twitter)
 > <a href='https://x.com/captdanosara' target='_blank'>captdanosara</a>
