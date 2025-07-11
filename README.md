@@ -25,10 +25,10 @@ In the near future, there will be some LIVE sessions for Q&A and for additional 
 The demo videos can be found "**pinned**" to the TOP of following Calculator Development team personal page links.
 
 ### X (formally Twitter)
-> <a href='https://x.com/captdanosara' target='_blank'>captdanosara</a>
+> <a href='https://x.com/captdanosara' target='_blank'>captdanosara =113</a>
 
 ### Telegram
-> <a href='https://t.me/SmileLoveGematria/' target='_blank'>SmileLoveGematria</a>
+> <a href='https://t.me/SmileLoveGematria/' target='_blank'>SmileLoveGematria =186</a>
 
 ### Rumble
 > <a href='https://rumble.com/user/NEGATIVE48ISME' target='_blank'>NEGATIVE48ISME =141</a>
