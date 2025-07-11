@@ -29,3 +29,6 @@ The demo videos can be found "**pinned**" to the TOP of following Calculator Dev
 
 ### Telegram
 > <a href='https://t.me/SmileLoveGematria/' target='_blank'>SmileLoveGematria</a>
+
+### Rumble
+> <a href='https://rumble.com/user/NEGATIVE48ISME' target='_blank'>THE RALLY BOSS =156</a>
