@@ -7,7 +7,7 @@
 >
 > When the APP is started for the first time, it starts in "training mode" to assist you in learning the various features of the Calculator. Suggestions are made that are focused around you and your interests so that you can eventually see your own personal corrolations in Gematria. However, you can type in anything you want during the training and ignore any suggestions by the APP during "training".
 >
-> You also have the option to bypass "training" completely using an ESCAPE code of "==**BQQM!**==" (that's 5 characters without the quotes), typed into the Calculator phrase entry area.
+> You also have the option to bypass "training" completely using an ESCAPE code of "**BQQM!**" (that's 5 characters without the quotes), typed into the Calculator phrase entry area.
 
 ## Demonstration Videos
 
