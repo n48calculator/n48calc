@@ -9,8 +9,10 @@
 >
 > You also have the option to bypass "training" completely using an ESCAPE code of "==**BQQM!**==" (that's 5 characters without the quotes), typed into the Calculator phrase entry area.
 
-## Demonstration Vidoes
+## Demonstration Videos
 
-The following links are to a handful of social media pages that contain some short demonstration videos of the Calculator in operation for users that don't know where to begin.  In the near future, there will be some LIVE sessions for Q&A and for additional Feature demonstrations.
+The following links are to a handful of social media pages that contain some short demonstration videos of the Calculator in operation for users that don't know where to begin. You should be able to find the demo videos "pinned" to the Top of these page links.
+
+In the near future, there will be some LIVE sessions for Q&A and for additional Feature demonstrations.
 
 (please hold... in progress!)
