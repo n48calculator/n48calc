@@ -26,10 +26,8 @@ In the near future, there will be some LIVE sessions for Q&A and for additional 
 
 The demo videos can be found "**pinned**" to the TOP of following Calculator Development team personal page links.
 
-<br>
 ### X (formally Twitter)
 > <a href='https://x.com/captdanosara' target='_blank'>captdanosara</a>
 
-<br>
 ### Telegram
 > <a href='https://t.me/SmileLoveGematria/' target='_blank'>SmileLoveGematria</a>
