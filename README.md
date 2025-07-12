@@ -18,7 +18,7 @@ An extended PUBLIC BETA link is Temporarily available for pre-installation of th
 
 ## Demonstration Videos
 
-The following links areto some demonstration videos of the Calculator in operation geared for beginners. 
+The following links are demonstration videos of the Calculator in operation geared for beginners. 
 
 In the future, there will be LIVE training sessions for additional Feature demonstrations and for Q&A.
 
