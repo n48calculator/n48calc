@@ -39,4 +39,7 @@ The demo videos can be found "**pinned**" to the TOP of following Calculator Dev
 > <a href='https://www.tiktok.com/@michaelprotzman' target='_blank'>MICHAEL PROTZMAN =174</a>
 
 ### Truth Social
-> <a href='https://truthsocial.com/@Negative48Crew' target='_blank'>NEGATIVE 48 CREW =144</a>
+> <a href='https://truthsocial.com/@Negative48' target='_blank'>NEGATIVE48 =95</a>
+
+
+https://n48calculator.github.io/n48calc/
