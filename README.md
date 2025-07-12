@@ -40,6 +40,3 @@ The demo videos can be found "**pinned**" to the TOP of following Calculator Dev
 
 ### Truth Social
 > <a href='https://truthsocial.com/@Negative48' target='_blank'>NEGATIVE48 =95</a>
-
-
-https://n48calculator.github.io/n48calc/
