@@ -30,6 +30,8 @@ The demo videos can be found "**pinned**" to the TOP of following Calculator Dev
 ### Telegram
 > <a href='https://t.me/SmileLoveGematria/' target='_blank'>SmileLoveGematria =186</a>
 
+> <a href='https://t.me/NonnieCodes/' target='_blank'>NonnieCodes =117</a>
+
 ### Rumble
 > <a href='https://rumble.com/user/NEGATIVE48ISME' target='_blank'>NEGATIVE48ISME =141</a>
 
