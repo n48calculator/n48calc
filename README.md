@@ -35,6 +35,8 @@ The demo videos can be found "**pinned**" to the TOP of following Calculator Dev
 ### Rumble
 > <a href='https://rumble.com/user/NEGATIVE48ISME' target='_blank'>NEGATIVE48ISME =141</a>
 
+> <a href='https://rumble.com/v6w8czg--48-calculator-demo.html' target='_blank'>WHAT IS GEMATRIA =154</a>
+
 ### TikTok
 > <a href='https://www.tiktok.com/@michaelprotzman' target='_blank'>MICHAEL PROTZMAN =174</a>
 
