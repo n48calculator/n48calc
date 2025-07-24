@@ -32,6 +32,8 @@ The demo videos can be found "**pinned**" to the TOP of following Calculator Dev
 
 > <a href='https://t.me/NonnieCodes/' target='_blank'>NonnieCodes =117</a>
 
+> <a href='https://t.me/MRFOURSEVEN156/' target='_blank'>MR FOUR SEVEN =156</a>
+
 ### Rumble
 > <a href='https://rumble.com/user/NEGATIVE48ISME' target='_blank'>NEGATIVE48ISME =141</a>
 
