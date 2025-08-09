@@ -27,6 +27,8 @@ The demo videos can be found "**pinned**" to the TOP of following Calculator Dev
 ### X (formally Twitter)
 > <a href='https://x.com/captdanosara' target='_blank'>captdanosara =113</a>
 
+> <a href='https://x.com/PenelopePi15850' target='_blank'>PenelopePi15850 =132</a>
+
 ### Telegram
 > <a href='https://t.me/SmileLoveGematria/' target='_blank'>SmileLoveGematria =186</a>
 
