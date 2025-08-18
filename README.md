@@ -10,12 +10,6 @@
 
 ---
 
-An extended PUBLIC BETA link is Temporarily available for pre-installation of the -48 Calculator, allowing you to get aquainted with it's operation before the App Store release occurs.
-
-<a href='https://testflight.apple.com/join/DF8XcDdJ' target='_blank'>-48 Calculator - Public BETA Link</a>
-
----
-
 ## Demonstration Videos
 
 The following links are demonstration videos of the Calculator in operation geared for beginners. 
