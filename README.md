@@ -10,16 +10,16 @@
 >
 > *** IMPORTANT (DATABASE BACKUP INFORMATION) ***
 In order to BACKUP your personal database, there is an EXPORT utility feature available. If you have less then 4800 phrases, you will have to type in a "TRIGGER CODE" to activate the feature. If you have more than 4800 phrases and have completed TRAINING mode, then the feature is available without a "TRIGGER CODE" requirement. The number of phrases you have in your personal database is presented on your Calculator view/screen at the bottom, centered, and in "gray". You'll see this number increase every time you add a new phrase entry.
-
-The "TRIGGER CODE" for users without 4800 phrases is "BQQM!" (that's 5 characters in all capital letters, with an exclamation point, the double-quotes are not necessary). Once the code has been entered, the EXPORT utility will be made available. If you stop and restart your APP, then this will need to be re-enterered again in the future.
-
-The EXPORT utility is located on the [App Settings] view, which can be activated using the 3-dots (upper right corner of Calculator), then selecting the AppSettings menu item. Then locate the EXPORT "link" near the bottom, click that link.
-
-The [-48 Export] view is then presented, with any previous BACKUPS listed. To create a NEW/FRESH backup, click on the [+] icon located in the upper right. You should see a NEW backup file listed with "today's" DATE/TIME added to the list.
-
-That's all you need to do. However, it's probably also a good idea to COPY that backup to an external location (most Apple users have FREE iCloud space available). You can do this be first selecting the backup file in the list you wish to COPY externally by "clicking" on that file in the list. Then with that file selected, clock on the SQUARE-WITH-OUT-POINTING-ARROW icon in the upper-left.  That will activate Apples FILES App which will allow you to put your backup anywhere desired.  Navigate to the desired location, and click the SAVE button to complete the externalization procedure.
-
-NOTE: if you have more than 4800 phrases, and accidentally type in the "TRIGGER CODE" (it's not needed), then you will be switched/toggled back into TRAINING mode. If this happens, you can toggle back out of training by typing the "TRIGGER CODE" again.
+>
+>The "TRIGGER CODE" for users without 4800 phrases is "BQQM!" (that's 5 characters in all capital letters, with an exclamation point, the double-quotes are not necessary). Once the code has been entered, the EXPORT utility will be made available. If you stop and restart your APP, then this will need to be re-enterered again in the future.
+>
+>The EXPORT utility is located on the [App Settings] view, which can be activated using the 3-dots (upper right corner of Calculator), then selecting the AppSettings menu item. Then locate the EXPORT "link" near the bottom, click that link.
+>
+>The [-48 Export] view is then presented, with any previous BACKUPS listed. To create a NEW/FRESH backup, click on the [+] icon located in the upper right. You should see a NEW backup file listed with "today's" DATE/TIME added to the list.
+>
+>That's all you need to do. However, it's probably also a good idea to COPY that backup to an external location (most Apple users have FREE iCloud space available). You can do this be first selecting the backup file in the list you wish to COPY externally by "clicking" on that file in the list. Then with that file selected, clock on the SQUARE-WITH-OUT-POINTING-ARROW icon in the upper-left.  That will activate Apples FILES App which will allow you to put your backup anywhere desired.  Navigate to the desired location, and click the SAVE button to complete the externalization procedure.
+>
+>NOTE: if you have more than 4800 phrases, and accidentally type in the "TRIGGER CODE" (it's not needed), then you will be switched/toggled back into TRAINING mode. If this happens, you can toggle back out of training by typing the "TRIGGER CODE" again.
 
 ---
 
