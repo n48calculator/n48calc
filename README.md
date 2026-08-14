@@ -9,6 +9,10 @@
 
 <img src="images/calc4800.png" alt="Ready For Training" width="40%" />
 
+Once you've achieved/exceeded the GOAL of 4800 initial phrases saved, then the "LIGHT BLUE" message "TRAINING MODE IS NOT READY TO START" will appear just above the phrase entry text field. When this is presented, you are not automatically sent into "TRAINING MODE". Training Mode is entered when the User "activates" that mode using the 3-dots menu item "Activate Training (4,800)". Don't panic when your screen contents change, your 4800+ phrases are all still present in your database.
+
+<img src="images/calc4800_activateTraining.png" alt="Activate Training Mode" width="40%" />
+
 ## *** IMPORTANT (APP Database Backup process) ***
 >In order to BACKUP your personal database, there is an EXPORT utility feature available within the App. If you are still relatively new, and have less then 4800 phrases, you will need to type in a "TRIGGER CODE" to activate the EXPORT feature. If you have more than 4800 phrases and have completed TRAINING mode, then the feature is available without a "TRIGGER CODE" requirement. The number of phrases you have in your personal database is presented on your Calculator view/screen at the bottom, centered, and in "gray". You'll see this number increase every time you add a new phrase entry.
 >
