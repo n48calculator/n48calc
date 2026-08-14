@@ -7,6 +7,8 @@
 >
 > When the APP is launched for the first time, it starts up in a reduced functionality mode with many features disabled. A basic set of 4 ciphers are activated initially (a total of 18 ciphers are available in the App). Once 4800 phrases have been entered and saved, then you can enter a "training mode" assisting you in learning the various additional features of the Calculator App. Suggestions are made that are focused around you and your interests so that you can eventually see your own personal correlations in Gematria. However, you can choose to type in anything you want instead of the "prompt" suggestions during the training phase (some people are simply paranoid).
 
+![Ready For Training](/images/images/calc4800.png)
+
 ## *** IMPORTANT (APP Database Backup process) ***
 >In order to BACKUP your personal database, there is an EXPORT utility feature available within the App. If you are still relatively new, and have less then 4800 phrases, you will need to type in a "TRIGGER CODE" to activate the EXPORT feature. If you have more than 4800 phrases and have completed TRAINING mode, then the feature is available without a "TRIGGER CODE" requirement. The number of phrases you have in your personal database is presented on your Calculator view/screen at the bottom, centered, and in "gray". You'll see this number increase every time you add a new phrase entry.
 >
