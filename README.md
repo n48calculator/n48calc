@@ -6,13 +6,17 @@
 > Apple requires a Privacy policy for all APPS that are accepted into the App Store. The policy for the -48 Calculator, can be reviewed here: <a href='https://n48calculator.github.io/policy/' target='_blank'>-48 Calculator Policy Link</a>
 >
 > When the APP is launched for the first time, it starts up in a reduced functionality mode with many features disabled. A basic set of 4 ciphers are activated initially (a total of 18 ciphers are available in the App). Once 4800 phrases have been entered and saved, then you can enter a "training mode" assisting you in learning the various additional features of the Calculator App. Suggestions are made that are focused around you and your interests so that you can eventually see your own personal correlations in Gematria. However, you can choose to type in anything you want instead of the "prompt" suggestions during the training phase (some people are simply paranoid).
-
-<img src="images/calc4800.png" alt="Ready For Training" width="40%" />
-
-Once you've achieved/exceeded the GOAL of 4800 initial phrases saved, then the "LIGHT BLUE" message "TRAINING MODE IS NOT READY TO START" will appear just above the phrase entry text field. When this is presented, you are not automatically sent into "TRAINING MODE". Training Mode is entered when the User "activates" that mode using the 3-dots menu item "Activate Training (4,800)". Don't panic when your screen contents change, your 4800+ phrases are all still present in your database.
-
-<img src="images/calc4800_activateTraining.png" alt="Activate Training Mode" width="40%" />
-
+>
+> <img src="images/calc4800.png" alt="Ready For Training" width="40%" />
+>
+>Once you've achieved/exceeded the GOAL of 4800 initial phrases saved, then the "LIGHT BLUE" message "TRAINING MODE IS NOT READY TO START" will appear just above the phrase entry text field. When this is presented, you are not automatically sent into "TRAINING MODE". Training Mode is entered when the User "activates" that mode using the 3-dots menu item "Activate Training (4,800)". Don't panic when your screen contents change, your 4800+ phrases are all still present in your database.
+>
+> <img src="images/calc4800_activateTraining.png" alt="Activate Training Mode" width="40%" />
+>
+>If this is the FIRST time you've activated Training your screen will look similar to the following:
+>
+> <img src="images/calc4800_trainingFirstScreen.png" alt="Training Mode First Screen" width="40%" />
+>
 ## *** IMPORTANT (APP Database Backup process) ***
 >In order to BACKUP your personal database, there is an EXPORT utility feature available within the App. If you are still relatively new, and have less then 4800 phrases, you will need to type in a "TRIGGER CODE" to activate the EXPORT feature. If you have more than 4800 phrases and have completed TRAINING mode, then the feature is available without a "TRIGGER CODE" requirement. The number of phrases you have in your personal database is presented on your Calculator view/screen at the bottom, centered, and in "gray". You'll see this number increase every time you add a new phrase entry.
 >
