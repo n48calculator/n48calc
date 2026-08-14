@@ -32,9 +32,21 @@
 >
 >The EXPORT utility is located on the [App Settings] view, which can be activated using the 3-dots (upper right corner of Calculator), then selecting the AppSettings menu item. Then locate the EXPORT "link" near the bottom, click on the "EXPORT" link presented.
 >
+> <img src="images/calc_export_01.png" alt="Activate Export" width="40%" />
+>
 >The [-48 Export] view is then presented, with any previous BACKUPS listed. To create a NEW/FRESH backup, click on the [+] icon located in the upper right of that App view. You should see a NEW backup file created and listed with "today's" DATE/TIME added to the list.
 >
->That's all you need to do. However, it's probably also a good idea to COPY that backup to an external location (most Apple users have FREE iCloud space available). You can do this by first selecting the backup file in the list you wish to COPY externally by "clicking" on that file listed. Then with that file selected, click on the SQUARE-WITH-OUT-POINTING-ARROW icon in the upper-left. That will activate Apple's FILES App which will navigate you to SAVE your backup to anywhere within your own personal Apple EcoSystem desired. Navigate to the desired location, followed by a click of the SAVE button to complete the externalization procedure.
+> <img src="images/calc_export_02_markup.png" alt="Create a Backup Archive" width="40%" />
+>
+> <img src="images/calc_export_03_markup.png" alt="New Backup Archive Listed" width="40%" />
+>
+>That's all you need to do. However, it's probably also a good idea to COPY that backup to an external location (most Apple users have FREE iCloud space available). You can do this by first selecting the backup file in the list you wish to COPY externally by "clicking" on that file listed. Then with that file selected, click on the SQUARE-WITH-OUT-POINTING-ARROW icon in the upper-left.
+>
+> <img src="images/calc_export_04_markup.png" alt="SAVE Backup to External Archive" width="40%" />
+>
+>That will activate Apple's FILES App which will navigate you to SAVE your backup to anywhere within your own personal Apple EcoSystem desired. Navigate to the desired location, followed by a click of the SAVE button to complete the externalization procedure.
+>
+> <img src="images/calc_export_05_markup.png" alt="Choose External From App Location" width="40%" />
 >
 >NOTE: if you have more than 4800 phrases, and accidentally type in the "TRIGGER CODE" (it's not needed), then you will be switched/toggled back into TRAINING mode. If this happens accidentally, you can toggle back out of training by typing the "TRIGGER CODE" once again.
 
