@@ -17,6 +17,14 @@
 >
 > <img src="images/calc4800_trainingFirstScreen.png" alt="Training Mode First Screen" width="40%" />
 >
+> The "navigation" options during TRAINING are limited as follows:
+>
+> <img src="images/calc4800_trainingExplainedMarkup.png" alt="Training Mode Navigation" width="40%" />
+>
+> Here's what the Training Mode MENU looks like if you desire to return to a previous Training level, or advance past the current level:
+>
+> <img src="images/calc4800_trainingLevelsList.png" alt="Training Mode Navigation" width="40%" />
+>
 ## *** IMPORTANT (APP Database Backup process) ***
 >In order to BACKUP your personal database, there is an EXPORT utility feature available within the App. If you are still relatively new, and have less then 4800 phrases, you will need to type in a "TRIGGER CODE" to activate the EXPORT feature. If you have more than 4800 phrases and have completed TRAINING mode, then the feature is available without a "TRIGGER CODE" requirement. The number of phrases you have in your personal database is presented on your Calculator view/screen at the bottom, centered, and in "gray". You'll see this number increase every time you add a new phrase entry.
 >
